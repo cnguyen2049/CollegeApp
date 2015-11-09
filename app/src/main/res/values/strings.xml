@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BH_College</string>
+    <string name="title">College Scam</string>
+    <string name="font">sans-serif-condensed</string>
+    <string name="fact1">Average debt 35,000 dollars and going up</string>
+
+    <color name="bluegrey">#607D8B</color>
+    <color name="white">#FFFFFF</color>
+
+
+</resources>
